@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1441968039 source:e:\workspaces\sigslot\main.cpp
+	<iostream>
+	"sigslot.h"
+
+1441968129 e:\workspaces\sigslot\sigslot.h
+	<set>
+	<list>
+	<algorithm>
+	<windows.h>
+	<pthread.h>
+
+1441986063 source:e:\workspace\sigslot\main.cpp
+	<iostream>
+	"sigslot.h"
+
+1441990552 e:\workspace\sigslot\sigslot.h
+	<set>
+	<list>
+	<algorithm>
+	<memory>
+	<windows.h>
+	<pthread.h>
+
